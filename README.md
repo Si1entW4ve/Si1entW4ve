@@ -9,3 +9,5 @@ Tor 用户/Tor User
 潜在 ADHD & AS/Potential ADHD & AS
 
 My PGP public key: [*`0x8ED4235C`*](https://raw.githubusercontent.com/Si1entW4ve/Si1entW4ve/refs/heads/master/0x8ED4235C_public.asc)
+
+My XMR address: `83LSA2ZQdx6Mk1upXmJiXn9QBgCYwyqArTFecrDeQUFQ7qVQDz45Wgs9m5W7EnckKLdhNTEFejnPeLNVy4BeyhBRVgthUgB`
